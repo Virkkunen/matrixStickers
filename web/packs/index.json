@@ -12,7 +12,8 @@
     "KappaPP.json",
     "ordinary_pack.json",
     "bigmeme_pack.json",
-    "grandememes_pacote.json"
+    "grandememes_pacote.json",
+    "gozei.json"
   ],
   "homeserver_url": "https://matrix.vrkknn.net"
 }
