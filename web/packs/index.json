@@ -1,11 +1,5 @@
 {
   "packs": [
-    "wppStickers.json",
-    "boomerconsoles.json",
-    "oedebabidis_pack.json",
-    "bob_esponja_pack.json",
-    "Yellowman_by_stickersthiefbot.json",
-    "thonk_pack.json"
   ],
   "homeserver_url": "https://matrix.vrkknn.net"
 }
