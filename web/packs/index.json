@@ -1,8 +1,0 @@
-{
-  "packs": [
-    "wppStickers.json",
-    "gozei.json",
-    "grandememes_pacote.json"
-  ],
-  "homeserver_url": "https://matrix.vrkknn.net"
-}
