@@ -14,3 +14,4 @@ web/lib/import-map.json
 *.bak
 
 .DS_Store
+packs/.DS_Store
